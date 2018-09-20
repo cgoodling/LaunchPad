@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/MainScreen.unity
+    guid: 0e651daea9a0e49fbb8bc22271130d38
+  - enabled: 1
+    path: Assets/Levels/HelpScreen.unity
+    guid: fe64fa3a0409b4bcf8784e85e4cb3b1d
+  - enabled: 1
+    path: Assets/Levels/HighScoreScreen.unity
+    guid: 2022823076f944141b51d80c997a366a
+  - enabled: 1
+    path: Assets/Levels/CreditsScreen.unity
+    guid: 854d8fb286211467b8cf75b1b42a38d8
+  - enabled: 1
+    path: Assets/Levels/Level 1.unity
+    guid: 3c6732d5af6f34c75b87a27c8ce481ee
+  - enabled: 1
+    path: Assets/Levels/Level 2.unity
+    guid: 2b6bfce532bc04c44b998c6e1669e33c
+  - enabled: 1
+    path: Assets/Levels/Level 3.unity
+    guid: cca36f1ca671248408c64d2e33f4cbb3
+  - enabled: 1
+    path: Assets/Levels/Level 4.unity
+    guid: ef004ed4a7eeb4e8b9892d51dd3e732a
+  - enabled: 1
+    path: Assets/Levels/Level 5.unity
+    guid: 7dabb2f4e2a384682b3e766ea1efd9e9
+  - enabled: 1
+    path: Assets/Levels/Level 6.unity
+    guid: eed25c22e840142f0bac1f045cff2a5a
+  - enabled: 1
+    path: Assets/Levels/WinScreen.unity
+    guid: 918abfb77a8974d94a2c0a19a625fc9c
+  - enabled: 0
+    path: Assets/Levels/Sandbox.unity
+    guid: 5e447c548201747cca78b6e53eef99f7
