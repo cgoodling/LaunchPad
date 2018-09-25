@@ -176,7 +176,7 @@ MonoBehaviour:
   m_Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor: {r: 0.08855168, g: 1, b: 0.055999994, a: 0.422}
   m_EffectDistance: {x: 1.5, y: -1}
   m_UseGraphicAlpha: 1
 --- !u!114 &114570965941102062
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor: {r: 0.08855168, g: 1, b: 0.055999994, a: 0.422}
   m_EffectDistance: {x: 1.5, y: -1}
   m_UseGraphicAlpha: 1
 --- !u!114 &114642237405883794
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectColor: {r: 0.08855168, g: 1, b: 0.055999994, a: 0.422}
   m_EffectDistance: {x: 1.5, y: -1}
   m_UseGraphicAlpha: 1
 --- !u!222 &222173691897961650
